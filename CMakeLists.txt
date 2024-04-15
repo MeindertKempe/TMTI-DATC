@@ -26,3 +26,4 @@ endif()
 
 add_executable(les1_1 les1/les1_1.cpp)
 add_executable(les1_2 les1/les1_2.cpp)
+add_executable(les1_3 les1/les1_3.cpp)
