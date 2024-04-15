@@ -23,3 +23,5 @@ if (CMAKE_CXX_COMPILER_ID MATCHES "Clang|GNU")
 elseif (CMAKE_CXX_COMPILER_ID STREQUAL "MSVC")
 	set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} /W4")
 endif()
+
+add_executable(les1_1 les1/les1_1.cpp)
