@@ -28,3 +28,5 @@ add_executable(les1_1 les1/les1_1.cpp)
 add_executable(les1_2 les1/les1_2.cpp)
 add_executable(les1_3 les1/les1_3.cpp)
 add_executable(les1_4 les1/les1_4.cpp)
+
+add_executable(les2_1 les2/les2_1/main.cpp les2/les2_1/StopWatch.cpp)
